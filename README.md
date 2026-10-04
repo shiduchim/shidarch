@@ -1,10 +1,11 @@
 # shidarch
 
-A clickable prototype of the shidduch information model for zugbase. It uses one ledger
-underneath and simple shidduch pages on top.
+A clickable phone prototype of zugbase, version 2: the screens from `docs/ARCHITECTURE.md`
+section 13, in the Warm Modern Dashboard look. One ledger underneath; ideas before shidduchim;
+sources and lists; Single and Shadchan Mode.
 
 - Live: `https://shiduchim.github.io/shidarch/`
-- Design: `docs/SHIDDUCH_LOGIC.md` in `shiduchim/zugbase`
+- Design: `docs/ARCHITECTURE.md` in `shiduchim/zugbase`
 - Source: `prototype/shidduch-flow.html` in `shiduchim/zugbase`. `index.html` here is a copy of
   it, wrapped as a full page.
 
